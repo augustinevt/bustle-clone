@@ -1,0 +1,12 @@
+<div class="col-sm-4 tile">
+  {{#link-to 'article' article }}
+  <div style="background-image:url({{article.photo}})" class="temp">
+    <div class="gradient">
+      <h6>{{article.genre}}</h6>
+    </div>
+  </div>
+  {{/link-to}}
+  <div class="bottom">
+    <h3>{{article.title}}</h3>
+  </div>
+</div>

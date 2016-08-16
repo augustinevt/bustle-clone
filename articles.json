@@ -1,0 +1,37 @@
+{
+  "articles": [
+    {
+      "title": "Justin Beiber's \"mustache\"",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "genre": "entertainment",
+      "photo": "http://media.al.com/opinion/photo/mustachejpg-76065e8b0f7df0da.jpg"
+    }, {
+      "title": "Doped Super lawyers get Russia back into olympics",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "genre": "news",
+      "photo": "https://i.ytimg.com/vi/fwOALTEKlP4/maxresdefault.jpg"
+    },
+    {
+      "title": "Stranger Things is freakin sick!",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "genre": "entertainment",
+      "photo": "https://art-s.nflximg.net/081a7/4118bc185081d7b9ff5160dc6e5304cbaab081a7.jpg"
+    }, {
+      "title": "Can you find the clickbait?",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "genre": "news",
+      "photo": "http://www.amazingfunvideos.com/wp-content/uploads/2016/05/the-most-dangerous-beaches-in-th.jpg"
+    },
+    {
+      "title": "Old men drive around a bit... GET HYPED",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "genre": "entertainment",
+      "photo": "http://hanabi.autoweek.com/sites/default/files/styles/gen-1200-675/public/grandtour.jpg?itok=rdx4H_Po"
+    }, {
+      "title": "America finishes orbiting super weapon",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "genre": "news",
+      "photo": "http://www.ihavenet.com/images/European-Union_IPCR-Joined-Up-Approach-in-Crisis-Response.jpg"
+    }
+  ]
+}

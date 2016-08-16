@@ -1,0 +1,36 @@
+<div class="jumbotron">
+
+{{#carousel-container transition-interval=400}}
+   {{#carousel-body}}
+     {{#carousel-item}}
+      <!-- <div class="carousel-item"> -->
+        <img class="carousel-img" src="https://acmooredesign.files.wordpress.com/2013/06/books.jpg" alt="books" />
+      <!-- </div> -->
+     {{/carousel-item}}
+     {{#carousel-item}}
+      <!-- <div class="carousel-item"> -->
+        <img class="carousel-img" src="https://d1esf25emizg2u.cloudfront.net/galleries/63921158-a236-434f-83ea-dfdd0c1ab545/tablet-web/d1b6713e-d80a-4c60-a615-57e0a493266b.jpeg" alt="books" />
+      <!-- </div> -->
+     {{/carousel-item}}
+     {{#carousel-item}}
+      <!-- <div class="carousel-item"> -->
+        <img class="carousel-img" src="https://i.ytimg.com/vi/CeKpyRlzQik/maxresdefault.jpg" alt="books" />
+      <!-- </div> -->
+     {{/carousel-item}}
+   {{/carousel-body}}
+
+   {{#carousel-arrow direction="left" tagName="button"}}
+     Slide Left
+   {{/carousel-arrow}}
+   {{#carousel-arrow direction="right" tagName="button"}}
+     Slide Right
+   {{/carousel-arrow}}
+ {{/carousel-container}}
+</div>
+<div class="container">
+    <div class="row">
+      {{#each model as |currentArticle|}}
+        {{display-article article=currentArticle  }}
+      {{/each}}
+    </div>
+</div>

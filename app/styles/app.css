@@ -1,0 +1,83 @@
+.temp {
+  height: 300px;
+  background-size: cover;
+  width: 100%;
+  padding: 0;
+}
+
+.jumbotron {
+  margin-top: 100px;
+  height: 700px;
+  text-align: center;
+}
+
+img {
+  height: 600px;
+  width: 1100px;
+  margin:auto;
+}
+
+.logo {
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.tile {
+    /*border-bottom: solid grey 0.5px;*/
+    height: 380px;
+    margin-top: 20px;
+    display: relative;
+}
+
+.gradient {
+  background: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0));
+  height: 50px;
+  position: inherit;
+  padding: 3px 10px;
+}
+
+.photo-temp {
+}
+
+h6 {
+  position: absolute;
+  color: lightGrey;
+}
+
+h3 {
+  font-weight: normal;
+  font-size: 20px;
+}
+
+.bottom {
+  border-bottom: solid grey 0.5px;
+  /*position: absolute;
+  bottom: 0;
+  margin: 0;*/
+  /*width: 90%;*/
+  height: 50px;
+}
+
+.header {
+  text-align: center;
+}
+
+.carousel {
+  width: 1000px;
+}
+
+.navbar {
+  position:fixed;
+  top: 0;
+  width: 80%;
+  margin-left: 10%;
+  z-index: 3;
+}
+
+.nav {
+  margin-left: 60%;
+}
+
+.showcase {
+  margin-top: 100px;
+}
